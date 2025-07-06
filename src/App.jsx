@@ -2,9 +2,9 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import './App.css'
 import Login from './Components/Login/Login';
 import Navigator from "./Components/Navigator/Navigator";
-import Wordle from "./Components/Wordle/Wordle";
 import Connection from "./Components/Connection/Connection";
 import Profile from "./Components/Profile/Profile";
+import Wordle from "./Wordle/minicomponents/Wordle.jsx";
 function App() {
 
   return (

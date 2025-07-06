@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <header className="App-header">
       <h1>
-        <Link to="/home" className="nav-brand">WordGrid</Link>
+        <Link to="/wordle" className="nav-brand">WordGrid</Link>
       </h1>
       <nav>
         <ul className="nav-links">
